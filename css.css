@@ -1,0 +1,18 @@
+.wrap{
+    min-width: 1300px;
+    margin: 0 auto;
+}
+.shb{
+display: flex;
+column-gap: 20px;
+padding: 50px 0px;
+}
+.img{
+height: 200px;
+margin-bottom: 20px;
+}
+.img img{
+ height: 100%;
+width: 100%;
+object-fit: contain;   
+}
